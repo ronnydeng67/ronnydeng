@@ -1314,3 +1314,10 @@ input[type="text"] {
   display: flex;
   justify-content: space-around;
 }
+
+.resume {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}

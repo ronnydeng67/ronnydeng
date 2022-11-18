@@ -1382,3 +1382,16 @@ input[type="text"] {
 .animate-box {
   padding-top: 50px;
 }
+
+.nav-link {
+  color: #ffc800;
+}
+
+.animate-box-about {
+  background-color: lightgray;
+}
+
+.animate-box-portfolio {
+  background-color: #5bc0de;
+}
+

@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: lightgray;
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -312,7 +312,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #c0b3a0;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -1388,10 +1388,13 @@ input[type="text"] {
 }
 
 .animate-box-about {
-  background-color: lightgray;
+  background-color: #e9e9e9;
 }
 
 .animate-box-portfolio {
   background-color: #5bc0de;
 }
 
+#fh5co-features {
+  background-color: #cdcdcd;
+}
